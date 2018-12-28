@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{61AF864B-F819-B3B4-31D9-BF3080CA9920}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Tutorial/Scripts/PhotonTokens.cs">
+    <Files>
+      <File FileName="Assets/Tutorial/Scripts/Menu.cs" Line="53" Column="17" />
+      <File FileName="Assets/Tutorial/Scripts/CubeBehavior.cs" Line="1" Column="1" />
+      <File FileName="Assets/Tutorial/Scripts/NetworkCallbacks.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltRuntimeConfigs.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltNetworkUtils.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltLauncher.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltExecutionOrderAttribute.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltDebugStartSettings.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltDebugStart.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltConsoleWriter.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/BoltUnityDebugDrawer.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/editor/BoltExecutionOrderManager.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/editor/BoltPostProcessor.cs" Line="1" Column="1" />
+      <File FileName="Assets/bolt/scripts/editor/BoltWizardWindow.cs" Line="1" Column="1" />
+      <File FileName="Assets/Tutorial/Scripts/PhotonTokens.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
